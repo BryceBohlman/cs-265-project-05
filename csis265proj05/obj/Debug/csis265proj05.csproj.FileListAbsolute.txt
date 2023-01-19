@@ -1,0 +1,7 @@
+C:\vsprojects\csis265proj05\csis265proj05\obj\Debug\csis265proj05.csprojAssemblyReference.cache
+C:\vsprojects\csis265proj05\csis265proj05\obj\Debug\csis265proj05.csproj.CoreCompileInputs.cache
+C:\vsprojects\csis265proj05\csis265proj05\bin\Debug\csis265proj05.exe.config
+C:\vsprojects\csis265proj05\csis265proj05\bin\Debug\csis265proj05.exe
+C:\vsprojects\csis265proj05\csis265proj05\bin\Debug\csis265proj05.pdb
+C:\vsprojects\csis265proj05\csis265proj05\obj\Debug\csis265proj05.exe
+C:\vsprojects\csis265proj05\csis265proj05\obj\Debug\csis265proj05.pdb
